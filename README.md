@@ -25,6 +25,7 @@ GitHub_ [**https://github.com/Chanwooong2**](https://github.com/Chanwooong2)
 새로운 것을 마주하는 것에 두려움이 없습니다. 기술적 트렌드를 따라가려고 노력하고 관심이 많습니다. 
 
 <br> 
+
 ---
 
 # Ability.
@@ -40,6 +41,7 @@ GitHub_ [**https://github.com/Chanwooong2**](https://github.com/Chanwooong2)
  고객의 요구 사항을 반영하여 필요한 기능들을 명세하고 적절한 UI로 스토리보드를 작성할 수 있습니다. 작성한 스토리보드를 Javascript, jQuery, html, css 등을 활용하여 직접 화면을 개발할 수 있습니다. 클라이언트 친화적인 UI를 지향합니다. 또한 Javascript로 서버로부터 받아온 데이터들을 다루고 웹 페이지에 리스트, 그래프 등 다양한 형식으로 나타낼 수 있습니다. 비동기식 화면 처리로 업데이트가 필요한 부분의 데이터만 보여줄 수 있습니다.
 
 <br> 
+
 ---
 
 # Work Experience.
