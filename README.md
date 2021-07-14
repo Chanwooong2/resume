@@ -52,6 +52,7 @@ GitHub_ [**https://github.com/Chanwooong2**](https://github.com/Chanwooong2)
 ### **원활한 솔루션 운영을 위한 자체 메시지 REST API, 고객 소리함 개발**
 
 > (소개) 여러 솔루션에서 알림 기능을 추가할 수 있도록 SMS, 무료 메신저를 요청받아 발송하는 서버
+
 > (소개) 솔루션을 사용하는 고객들의 피드백을 즉각적으로 수집할 수 있는 서버
 
 - 필요한 서비스를 직접 설계하고 정의하여 Spring Framework 기반으로 웹 애플리케이션 구축 및 개발
