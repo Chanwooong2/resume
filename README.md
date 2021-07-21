@@ -100,7 +100,7 @@ GitHub_ [**https://github.com/Chanwooong2**](https://github.com/Chanwooong2)
 
 # Skill.
 
-- **Front-end** _ `Javascript`, `jQuery`, `HTML`, `CSS`
+- **Front-end** _ `Vanilla JS`, `jQuery`, `HTML`, `CSS`
 - **Back-end _** `java`, `Spring framework`, `MyBatis`, `Node.js`, `Postgresql`
 
 - **Interest _** `React`, `SPA`, `DevOps`, `CI/CD`
