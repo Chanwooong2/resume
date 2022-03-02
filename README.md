@@ -54,7 +54,7 @@ GitHub_ [**https://github.com/Chanwooong2**](https://github.com/Chanwooong2)
 
 <br>
 
-### **Tracking(위치 추적 솔루션) 추가 개발 및 고도화 - 진행 중**
+### **Tracking(위치 추적 솔루션) 추가 개발 및 고도화**
 
 (소개) 해외 파트너사의 위치 추적 엔진을 바탕으로 고객사의 요구 사항에 맞춰 자산의 실시간 위치 추적을 제공하는 솔루션, 새로운 고객사의 요구 사항을 반영하여 서비스 추가 개발 진행 중
 
@@ -62,6 +62,10 @@ GitHub_ [**https://github.com/Chanwooong2**](https://github.com/Chanwooong2)
     - 수기로 작성하고, 유선상으로 처리하던 업무를 웹 어플리케이션 상에서 해결할 수 있도록 웹 서비스 개발
 - 고객사의 내부 시스템과의 연동 작업 진행
     - 로그인, 사번 유효성 검증, 데이터 동기화 등의 작업을 담당자와 인터페이스를 통해 서비스 개발
+- 서비스 연동
+    - 화면과 개발한 서비스를 연동하여 데이터를 시각화
+    - ajax를 활용하여 최신화가 필요한 데이터를 주기적으로 갱신하도록 구현
+    - 위치 조회, 대여 시스템 메뉴를 담당하여 작업
 
 ### 새로운 솔루션을 위한 알고리즘 검증용 Android application 개발
 
@@ -120,7 +124,7 @@ GitHub_ [**https://github.com/Chanwooong2**](https://github.com/Chanwooong2)
 
 # Skill.
 
-- **Back-end _** `java`, `Spring framework`, `MyBatis`, `Node.js`, `Postgresql`
+- **Back-end _** `java`, `Spring framework`, `MyBatis`, `Postgresql`
 - **Front-end** _ `Vanilla JS`, `jQuery`, `HTML`, `CSS`
 
 <br> 
